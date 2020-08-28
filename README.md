@@ -1,2 +1,2 @@
 # Eris
-A customization, unique and open-source Discord bot!
+A customizable, unique and open-source Discord bot!
